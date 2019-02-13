@@ -1,0 +1,7 @@
+C:\Users\Sigal\Desktop\לימודים\שנה ב\סמסטר ב\C#\B17 Ex03 DavidTsap 307894857 SigalBindman 305280968\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+C:\Users\Sigal\Desktop\לימודים\שנה ב\סמסטר ב\C#\B17 Ex03 DavidTsap 307894857 SigalBindman 305280968\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+C:\Users\Sigal\Desktop\לימודים\שנה ב\סמסטר ב\C#\B17 Ex03 DavidTsap 307894857 SigalBindman 305280968\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\Sigal\Desktop\לימודים\שנה ב\סמסטר ב\C#\B17 Ex03 DavidTsap 307894857 SigalBindman 305280968\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\Sigal\Desktop\לימודים\שנה ב\סמסטר ב\C#\B17 Ex03 DavidTsap 307894857 SigalBindman 305280968\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\Sigal\Desktop\לימודים\שנה ב\סמסטר ב\C#\B17 Ex03 DavidTsap 307894857 SigalBindman 305280968\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+C:\Users\Sigal\Desktop\לימודים\שנה ב\סמסטר ב\C#\B17 Ex03 DavidTsap 307894857 SigalBindman 305280968\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
